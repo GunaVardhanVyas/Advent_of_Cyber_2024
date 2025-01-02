@@ -43,5 +43,5 @@ Marta May-ware's system was compromised even when she had followed all the proce
 ## Question and Hints :
 > **What is the flag value inside the flag.txt file that’s located on the Administrator’s desktop?**
 >> Hint : go the the exact directory and use cat command, other techniques may or may not work.
->> ![flag_phishing](/Screenshots/D10Q1)
+>> ![flag_phishing](/Screenshots/D10Q1.png)
 >> Ans : THM{PHISHING_CHRISTMAS}
