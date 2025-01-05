@@ -42,5 +42,5 @@ Mayor Malware has made a plan to destroy SOC-mas and scare all the SOC teams. Ev
   - Ans : THM{GlitchWasHere}
 2. What is the flag found in the malstrings.txt document after running floss.exe, and opening the file in a text editor?
   - Hint: Also given directly in the room. Just run the `floss` tool and
-  - ![Q2_help](/Screenshots/D6Q1.png)
+  - ![Q2_help](/Screenshots/D6Q2.png)
   - Ans : THM{HiddenClue}
